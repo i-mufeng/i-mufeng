@@ -1,2 +1,3 @@
-Hello, this is Mufeng from China, A back-end developer.
+Greetings. This is Mufeng, a back-end developer from Chongqing, China.
 
+I possess a web blog whose domain name is imufeng.cn. Your visit is cordially invited.
